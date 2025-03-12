@@ -1,4 +1,4 @@
-import { influencers } from "@/lib/influencers";
+import { influs } from "@/lib/teams";
 import Image from "next/image";
 import React from "react";
 const influencerlist = (props: any) => {
@@ -24,7 +24,7 @@ const influencerlist = (props: any) => {
         />
       </div>
       <div className="grid md:grid-cols-4 grid-cols-1 mt-10 gap-4">
-        {influencers.map((team: any) => (
+        {influs.map((team: any) => (
           <div
             className="container grid items-center justify-center"
             key={team.name}>

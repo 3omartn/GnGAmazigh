@@ -22,13 +22,13 @@ export default function Footer() {
       </div>
       <div className="flex justify-between items-center">
         <div className="text-white text-3xl font-semibold flex gap-4">
-          <Link href={"https://www.youtube.com/@GnGEsports"}>
+          <Link href={"https://www.youtube.com/@GnGEsports"} target="_blank">
             <FaYoutube />
           </Link>
-          <Link href={"https://www.facebook.com/GnGesportstn#"}>
+          <Link href={"https://www.facebook.com/GnGesportstn#"} target="_blank">
             <FaFacebook />
           </Link>
-          <Link href={"https://www.instagram.com/gng_tn/"}>
+          <Link href={"https://www.instagram.com/gng_tn/"} target="_blank">
             <RiInstagramFill />
           </Link>
         </div>
@@ -42,13 +42,13 @@ export default function Footer() {
           </ul>
         </div>
         <div className="text-white text-3xl font-semibold flex gap-4">
-          <Link href={"https://discord.gg/Zp9ChywMJu"}>
+          <Link href={"https://discord.gg/Zp9ChywMJu"} target="_blank">
             <FaDiscord />
           </Link>
-          <Link href={"https://www.twitch.tv/gngtn"}>
+          <Link href={"https://www.twitch.tv/gngtn"} target="_blank">
             <FaTwitch />
           </Link>
-          <Link href={"https://twitter.com/SportsGng"}>
+          <Link href={"https://twitter.com/SportsGng"} target="_blank">
             <FaXTwitter />
           </Link>
         </div>

@@ -1,7 +1,5 @@
 import { teams } from "@/lib/teams";
 import { influs } from "@/lib/teams";
-import { influencers } from "@/lib/influencers";
-
 import Image from "next/image";
 import React from "react";
 

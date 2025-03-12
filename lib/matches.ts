@@ -1,7 +1,7 @@
 export const matches = [
   {
     id: 1,
-    team1: "/gng.png",
+    team1: "/GNG.png",
     team2: "/foxgaming.png",
     game: "/lol.png",
     gameName: "lol",
@@ -11,7 +11,7 @@ export const matches = [
   },
   {
     id: 2,
-    team1: "/gng.png",
+    team1: "/GNG.png",
     team2: "/twisted.png",
     game: "/lol.png",
     gameName: "lol",
@@ -21,7 +21,7 @@ export const matches = [
   },
   {
     id: 3,
-    team1: "/gng.png",
+    team1: "/GNG.png",
     team2: "/anubis.png",
     game: "/lol.png",
     gameName: "lol",
@@ -31,7 +31,7 @@ export const matches = [
   },
   {
     id: 4,
-    team1: "/gng.png",
+    team1: "/GNG.png",
     team2: "/raad.png",
     game: "/lol.png",
     gameName: "lol",
@@ -42,7 +42,7 @@ export const matches = [
   
   {
     id: 5,
-    team1: "/gng.png",
+    team1: "/GNG.png",
     team2: "/one-more.png",
     game: "/lol.png",
     gameName: "lol",
@@ -52,8 +52,8 @@ export const matches = [
   },
   {
     id: 6,
-    team1: "/gng.png",
-    team2: "/geekay.png",
+    team1: "/GNG.png",
+    team2: "/Geekay.png",
     game: "/lol.png",
     gameName: "lol",
     time: "6 june , 9pm (GMT+1)",
@@ -62,8 +62,8 @@ export const matches = [
   },
   {
     id: 7,
-    team1: "/gng.png",
-    team2: "/nigma.png",
+    team1: "/GNG.png",
+    team2: "/Nigma.png",
     game: "/lol.png",
     gameName: "lol",
     time: "7 june , 9pm (GMT+1)",
@@ -72,7 +72,7 @@ export const matches = [
   },
   {
     id: 8,
-    team1: "/gng.png",
+    team1: "/GNG.png",
     team2: "/foxgaming.png",
     game: "/lol.png",
     gameName: "lol",
