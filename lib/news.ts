@@ -1,7 +1,7 @@
 export const news = [
   {
     id: "1",
-    img: "/banner1.jpeg",
+    img: "/banner1.jpg",
     alt: "banner1",
   },
   {
@@ -16,12 +16,12 @@ export const news = [
   },
   {
     id: "4",
-    img: "/banner3.webp",
-    alt: "banner3",
+    img: "/banner1.jpg",
+    alt: "banner2",
   },
   {
     id: "5",
-    img: "/banner3.webp",
-    alt: "banner3",
+    img: "/banner2.webp",
+    alt: "banner2",
   },
 ];
