@@ -4,7 +4,7 @@ import LolTeam from "@/components/client/LolTeam";
 import React, { useRef } from "react";
 import AnimatedSponsors from "@/components/client/AnimatedSponsors";
 
-const page = () => {
+const TeamsPage = () => {
   const lolTeamRef = useRef<HTMLDivElement>(null);
 
   const handleGameClick = (gameName: string) => {
@@ -26,4 +26,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default TeamsPage;
