@@ -43,13 +43,6 @@ export const teams = [
     followers: "Coach",
     link: "https://facebook.com",
   },
-  {
-    name: "DANSKMAND",
-    img: "/players/player4.jpeg",
-    alt: "players4",
-    followers: "Manager",
-    link: "https://facebook.com",
-  },
 ];
 
 export const influs = [
@@ -72,6 +65,36 @@ export const influs = [
     img: "/players/JelyFish.png",
     alt: "JelyFish",
     followers: "119k",
+    link: "https:facebook.com",
+  },
+];
+export const ValoTeam = [
+  {
+    name: "Player1",
+    img: "/players/comp1.jpg",
+    alt: "Player1",
+    followers: "10k",
+    link: "https:facebook.com",
+  },
+  {
+    name: "Player2",
+    img: "/players/comp2.jpg",
+    alt: "Player1",
+    followers: "10k",
+    link: "https:facebook.com",
+  },
+  {
+    name: "Player3",
+    img: "/players/comp3.jpg",
+    alt: "Player1",
+    followers: "10k",
+    link: "https:facebook.com",
+  },
+  {
+    name: "Player4",
+    img: "/players/comp4.jpg",
+    alt: "Player1",
+    followers: "10k",
     link: "https:facebook.com",
   },
 ];
