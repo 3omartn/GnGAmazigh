@@ -29,7 +29,7 @@ const Achievement = (props: Props) => {
       </div>
       <div className="md:flex justify-between items-center gap-5 !!mx-10">
         <div className="flex flex-col gap-4">
-          <h1 className="text-white font-bold">Octobre 2024</h1>
+          <h1 className="text-white font-bold">October 2024</h1>
           <h3 className="text-white font-bold">
             Latest partnership with Orange Tunisia
           </h3>
