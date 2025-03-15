@@ -9,7 +9,7 @@ export default function page() {
   return (
     <section className="flex flex-col gap-11">
       <AboutHero />
-      <SwipeableCard title={"LAST ACHEVEMENT"} />
+      <SwipeableCard title={"Latest News"} />
       <Achievement />
       <LolTeam />
       <AnimatedSponsors />

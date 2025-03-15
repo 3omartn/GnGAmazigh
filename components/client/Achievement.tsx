@@ -29,24 +29,26 @@ const Achievement = (props: Props) => {
       </div>
       <div className="md:flex justify-between items-center gap-5 !!mx-10">
         <div className="flex flex-col gap-4">
-          <h1 className="text-white font-bold">NEWS X</h1>
+          <h1 className="text-white font-bold">Octobre 2024</h1>
           <h3 className="text-white font-bold">
-            OUR PARTNERS {"(POUR)"} 2024,12
+            Latest partnership with Orange Tunisia
           </h3>
           <p className="text-white w-[400px]">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit, class tempor
-            ornare placerat netus malesuada mauris lacinia, parturient cras
-            venenatis tellus scelerisque arcu. Vestibulum quam sociis consequat
-            egestas litora ac integer luctus, curabitur aliquam facilisi enim
-            morbi cum mi cubilia, praesent eros convallis cras orci lacus
-            lobortis.
+            Leveling Up Esports and Gaming in Tunisia: GNG x Orange Partnership
+            We are thrilled to announce the official partnership between GnG
+            esports and Orange Tunisie ! This collaboration represents a
+            significant step forward for the esports and gaming community in
+            Tunisia, paving the way for new opportunities, innovation, and
+            growth. A Partnership to Empower Gamers This partnership is more
+            than just a milestone; it is a commitment to supporting the vibrant
+            esports and gaming ecosystem in Tunisia.
           </p>
         </div>
 
         <div className="flex flex-col items-end md:gap-4 gap-2">
           <Image
-            src={"/placeholder.jpg"}
-            className="w-[500px] h-[200px]"
+            src={"/streaming.png"}
+            className="w-[550px] h-[300px]"
             alt="placeholder"
             width={500}
             height={200}

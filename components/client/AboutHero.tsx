@@ -34,15 +34,20 @@ export default function AboutHero() {
 
           <div>
             <p className="text-white md:text-lg text-sm">
-            Tunisian Esports organization🎮 <br></br> 
-            We will gather the best Tunisian talents and reach the top before you know it!
+              GnG Amazigh is a Tunisian Esports organization that manage and
+              organize multiple teams and tournaments in different games🎮{" "}
+              <br></br>
+              Our mession is to gather the best Tunisian and international
+              talents , from players to managers , coaches and casters , to
+              reach the top before you know it!
             </p>
           </div>
 
           <div className="flex justify-end">
             <Button
               variant={"ghost"}
-              className="hover:bg-transparent text-white hover:text-white underline">
+              className="hover:bg-transparent text-white hover:text-white underline"
+            >
               read more...
             </Button>
           </div>
@@ -74,7 +79,8 @@ export default function AboutHero() {
                   repeatType: "reverse",
                 },
               },
-            }}>
+            }}
+          >
             <Image
               className="absolute !w-full"
               src={"/model.svg"}
