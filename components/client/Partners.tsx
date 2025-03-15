@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import React from "react";
-// Corrected the path to go two levels up
 
 export default function Partners() {
   return (
@@ -16,7 +15,7 @@ export default function Partners() {
           height={30}
         />
         <h2 className="md:text-6xl text-2xl text-white font-semibold">
-          Know more about our sponsors
+          Our Partners
         </h2>
         <Image
           className="w-[100px] h-[30px]"
